@@ -1,4 +1,4 @@
-# SushiHub 3-Hour Coursework Starter
+# SushiHub Coursework Starter
 
 ## What this contains
 - React + Vite + Tailwind frontend
@@ -28,9 +28,5 @@ copy .env.example .env
 npm run dev
 ```
 
-Login:
-- Email: admin@sushi.com
-- Password: password123
 
-## Submit
-Upload code to GitHub and put the repo link in the DOCX.
+
